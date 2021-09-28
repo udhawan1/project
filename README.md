@@ -1,3 +1,6 @@
+## Link to published page
+[Link](https://udhawan1.github.io/project/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/udhawan1/project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
