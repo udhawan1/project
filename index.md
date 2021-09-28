@@ -12,7 +12,7 @@ I have some basic knowledge of programming languages such as C++, Java and Pytho
 
 You can view my LinkedIn Profile [here](https://www.linkedin.com/in/uday-dhawan-92aaa2179/).
 
-[section name](Technical Knowledge)
+[section name]( Technical Knowledge)
 
 [Link to Readme file](README.md)
 
