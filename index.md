@@ -10,11 +10,11 @@ My favorite quote is
 I have some basic knowledge of programming languages such as C++, Java and Python. For example:
 `cout << "Hello World" << endl;
 
-You can view my LinkedIn Profile [here] (https://www.linkedin.com/in/uday-dhawan-92aaa2179/).
+You can view my LinkedIn Profile [here](https://www.linkedin.com/in/uday-dhawan-92aaa2179/).
 
 [section name](Technical Knowledge)
 
-[Link to Readme file] (README.md)
+[Link to Readme file](README.md)
 
 My hobbies include:
 1. Chess
