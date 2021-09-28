@@ -12,7 +12,8 @@ I have some basic knowledge of programming languages such as C++, Java and Pytho
 
 You can view my LinkedIn Profile [here] (https://www.linkedin.com/in/uday-dhawan-92aaa2179/).
 
-[section name]( Technical Knowledge )
+[section name](Technical Knowledge)
+
 [Link to Readme file] (README.md)
 
 My hobbies include:
@@ -29,3 +30,6 @@ This is my task list
 - [ ] Complete my bachelor's
 - [ ] Apply to grad school
 - [ ] Get a job
+
+One of my role models is Virat Kohli.
+![Virat Kohli](Screen Shot 2021-09-27 at 8.11.04 PM.png)
