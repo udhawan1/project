@@ -8,7 +8,7 @@ My favorite quote is
 ## Technical Knowledge
 
 I have some basic knowledge of programming languages such as C++, Java and Python. For example:
-`cout << "Hello World" << endl;
+`cout << "Hello World" << endl;`
 
 You can view my LinkedIn Profile [here](https://www.linkedin.com/in/uday-dhawan-92aaa2179/).
 
